@@ -1,0 +1,28 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --allow-extra-chr
+  --bfile samples/samples/samples
+  --chr-set 29
+  --genome
+  --min 0.45
+  --out results/samples/samples
+
+Hostname: svetlanavm
+Working directory: /home/svetlana/Snakemake_pipelines/relatives
+Start time: Wed Nov  8 09:58:15 2023
+
+Random number seed: 1699426695
+3907 MB RAM detected; reserving 1953 MB for main workspace.
+51799 variants loaded from .bim file.
+14 samples (0 males, 0 females, 14 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to results/samples/samples.nosex .
+Using up to 4 threads (change this with --threads).
+Before main variant filters, 14 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.997144.
+51799 variants and 14 samples pass filters and QC.
+Note: No phenotypes present.
+IBD calculations complete.
+Finished writing results/samples/samples.genome .
+
+End time: Wed Nov  8 09:58:15 2023
